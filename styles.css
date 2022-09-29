@@ -17,13 +17,13 @@ header{
 }
 
 section{
-    border-bottom: 1px solid lightgray;
-    text-decoration: none;    
+    border-bottom: 1px solid lightgray; 
     text-align: center;
 }
 
 a{
     color: black;
+    text-decoration: underline dotted;
 }
 
 li{
