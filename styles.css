@@ -1,6 +1,6 @@
 body{
     text-align: center;
-    font-family: Georgia;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     margin: 10px auto 0 auto;
     width: 700px;
 }
@@ -13,6 +13,34 @@ header{
 }
 
 #header{
-    font-size: 20px;
-    white-space: 5px;
+    font-size: 22px;
+    word-spacing: 3px;
+}
+
+section{
+    border-bottom: 1px solid lightgray;
+    text-decoration: none;    
+    text-align: center;
+}
+
+a{
+    color: black;
+}
+
+li{
+    display: inline-block;
+    padding: 8px;
+}
+
+#bild{
+    background-image: url(./images/shutterstock_1390386575_1_lk6goo.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    border-bottom-width: 2px;
+    border-radius: 50%;
+    margin: 0 auto;
 }
