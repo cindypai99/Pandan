@@ -10,6 +10,7 @@ header{
     color: rgb(157, 133, 97);
     padding: 20px;
     font-weight: bold;
+    border-radius: 5px;
 }
 
 #header{
