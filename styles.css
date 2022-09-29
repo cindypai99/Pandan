@@ -44,3 +44,7 @@ li{
     border-radius: 50%;
     margin: 0 auto;
 }
+
+main{
+    text-align: left;
+}
