@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    font-family: Georgia;
+    margin: 10px auto 0 auto;
+    width: 700px;
+}
+
+header{
+    background-color: rgb(245, 243, 211);
+    color: rgb(157, 133, 97);
+    padding: 20px;
+    font-weight: bold;
+}
+
+#header{
+    font-size: 20px;
+    white-space: 5px;
+}
